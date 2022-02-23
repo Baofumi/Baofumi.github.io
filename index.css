@@ -1,190 +1,61 @@
+*{
+  font-family: 'Saira Condensed', sans-serif;
+}
 #header{
   width:100%;
-    background-color:blue;
+    background-color:silver;
   text-align:center;
-  padding:;
-  border:;
+  padding:4px;
+  border:px solid cyan;
   font-size:30px;
-    margin:0px
+    margin-bottom:10px
+    
 }
-#top1{
-  width:;
-    background-color:red;
-  text-align:;
-  padding:;
-  border:;
-  font-size:20px;
-    margin:
+#page-title {
+  width:100%;
+  height:;
+  background-color:;
+  text-align:
 }
-#img1{
-  width:;
-    background-color:pink;
-  text-align:;
-  padding:;
-  border:;
-  font-size:;
-    margin:
+#menu {
+  width:100%;
+  height:35px;
+  background-color:cyan;
+  text-align:center;
+  font-size:17px;
+  margin-bottom:10px
+  
+  
 }
-#top2{
-  width:;
-    background-color:cyan;
-  text-align:;
-  padding:;
-  border:;
-  font-size:20px;
-    margin:
-}
-#img2{
-  width:;
-    background-color:silver;
-  text-align:;
-  padding:;
-  border:;
-  font-size:;
-    margin:
-}
-#top3{
-  width:;
-    background-color:green;
-  text-align:;
-  padding:;
-  border:;
-  font-size:20px;
-    margin:
-}
-#img3{
-  width:;
-    background-color:#2b5c31;
-  text-align:;
-  padding:;
-  border:;
-  font-size:;
-    margin:
-}
-#top4{
-  width:;
-    background-color:yellow;
-  text-align:;
-  padding:;
-  border:;
-  font-size:20px;
-    margin:
-}
-#img4{
-  width:;
-    background-color:orange;
-  text-align:;
-  padding:;
-  border:;
-  font-size:;
-    margin:
-}
-#top5{
-  width:;
-    background-color:blue;
-  text-align:;
-  padding:;
-  border:;
-  font-size:20px;
-    margin:
-}
-#img5{
-  width:;
-    background-color:red;
-  text-align:;
-  padding:;
-  border:;
-  font-size:;
-    margin:
-}
-#top6{
-  width:;
-    background-color:pink;
-  text-align:;
-  padding:;
-  border:;
-  font-size:20px;
-    margin:
-}
-#img6{
-  width:;
-    background-color:silver;
-  text-align:;
-  padding:;
-  border:;
-  font-size:;
-    margin:
-}
-#top7{
-  width:;
-    background-color:cyan;
-  text-align:;
-  padding:;
-  border:;
-  font-size:20px;
-    margin:
-}
-#img7{
-  width:;
-    background-color:brown;
-  text-align:;
-  padding:;
-  border:;
-  font-size:;
-    margin:
-}
-#top8{
-  width:;
-    background-color:salmon;
-  text-align:;
-  padding:;
-  border:;
-  font-size:20px;
-    margin:
-}
-#img8{
-  width:;
-    background-color:green;
-  text-align:;
-  padding:;
-  border:;
-  font-size:;
-    margin:
-}
-#top9{
-  width:;
-    background-color:#0b3578;
-  text-align:;
-  padding:;
-  border:;
-  font-size:20px;
-    margin:
-}
-#img9{
-  width:;
-    background-color:#4984e3;
-  text-align:;
-  padding:;
-  border:;
-  font-size:;
-    margin:
-}
-#top10{
-  width:;
-    background-color:#2ac73c;
-  text-align:;
-  padding:;
-  border:;
-  font-size:20px;
-    margin:
-}
-#img10{
-  width:;
-    background-color:#7bed88;
-  text-align:;
-  padding:;
-  border:;
-  font-size:;
-    margin:
+#mid-container{
+  margin:0 auto;
+  width:100%;
+  height: 1478px;
+  
 }
 
+#text{
+  font-size:25px;
+    background-color:silver;
+  width:70%;
+  float:left;
+  height:auto;
+  
+}
+#gallery{
+  background-color:green;
+  width:30%;
+  height: 100%;
+  float:right;
+  text-align:center;
+  margin-bottom:10px
+  
+   
+}
+#footer{
+  background-color:cyan;
+  font-size:20px;
+  width:100%;
+
+  
+}
